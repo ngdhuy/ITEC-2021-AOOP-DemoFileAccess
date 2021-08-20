@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCheck", "AutoCheck\Auto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMultipleForm", "DemoMultipleForm\DemoMultipleForm.csproj", "{CBC30980-A764-4440-AEC1-43670288939C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoChangeQuestion", "DemoChangeQuestion\DemoChangeQuestion.csproj", "{857DDE26-EF50-4A2B-A2E7-B8742D3D6AB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CBC30980-A764-4440-AEC1-43670288939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBC30980-A764-4440-AEC1-43670288939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBC30980-A764-4440-AEC1-43670288939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857DDE26-EF50-4A2B-A2E7-B8742D3D6AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857DDE26-EF50-4A2B-A2E7-B8742D3D6AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857DDE26-EF50-4A2B-A2E7-B8742D3D6AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857DDE26-EF50-4A2B-A2E7-B8742D3D6AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student id="1">
+		<name>Nguyen Van A</name>
+		<address>Dist. 5 - HCMC</address>
+	</student>
+	<student id="2">
+		<name>Tran Thi B</name>
+		<address>Dist. 3 - HCMC</address>
+	</student>
+	<student id="3">
+		<name>Mr Buoi</name>
+		<address>227 NVC - HCMC</address>
+	</student>
+</students>

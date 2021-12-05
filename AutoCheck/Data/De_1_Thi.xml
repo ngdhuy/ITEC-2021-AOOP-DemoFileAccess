@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Questions id="1">
+	<Question id="1">
+		<Content>What is XML?</Content>
+		<Answers>
+			<Option>This is Demo</Option>
+			<Option>C/C++</Option>
+			<Option>C#</Option>
+			<Option>Data Sepecification</Option>
+		</Answers>
+	</Question>
+	<Question id="2">
+		<Content>What is OOP?</Content>
+		<Answers>
+			<Option>This is Demo</Option>
+			<Option>C/C++</Option>
+			<Option>C#</Option>
+			<Option>Data Sepecification</Option>
+		</Answers>
+	</Question>
+</Questions>

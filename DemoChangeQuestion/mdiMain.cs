@@ -35,6 +35,7 @@ namespace DemoChangeQuestion
             if (openFileDialog.ShowDialog(this) == DialogResult.OK)
             {
                 string FileName = openFileDialog.FileName;
+                MessageBox.Show(FileName);
             }
         }
 

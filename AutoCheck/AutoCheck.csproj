@@ -83,6 +83,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Data\De_1_BaiLam.xml" />
+    <Content Include="Data\De_1_Thi.xml" />
+    <Content Include="Data\De_2.xml" />
+    <Content Include="Data\De_1.xml" />
     <Content Include="Data\Data.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
